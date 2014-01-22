@@ -1,0 +1,3 @@
+- Map collision detection
+- Raycaster
+- Only update input fields once per second, add an apply button for applying new ones

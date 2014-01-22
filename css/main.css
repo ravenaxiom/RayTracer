@@ -1,0 +1,19 @@
+body {
+	font-family: Arial, Verdana, sans-serif;
+}
+
+canvas {
+	width:448px;
+	height:448px;
+}
+
+.container {
+	width:448px;
+	margin-top:20px;
+}
+
+label, input {
+	width:50%;
+	display:block;
+	float:left;
+}
